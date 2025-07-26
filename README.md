@@ -21,9 +21,9 @@ This repository provides a complete solution for classifying Higgs boson events 
 ```
 .
 ├── README.md
-├── HiggsBoson_XGBoost.ipynb   # Main notebook with code and results
+├── HiggbosonFinalcode.ipynb   # Main notebook with code and results
 ├── atlas-higgs-challenge-2014-v2.csv.gz  # Dataset (not included due to size)
-└── images/                    # Folder for plots, metrics screenshots (optional)
+└── Report-higgs boson detection.pdf                   
 ```
 
 ## Dataset
